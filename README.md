@@ -289,7 +289,7 @@ LR_REDUCTION_FACTOR = 0.5
 If you use this code in your research, please cite:
 
 ```bibtex
-@article{djassem2024cnn,
+@article{djassem2026cnn,
   title={CNN-Based Compensation of Faulty Planar Phased-Array Radiation Patterns},
   author={Djassem, Bendref Mansour and Challal, Mouloud and Staraj, Robert and Abdolmohammadi, Hamid R. and Khosravi, Nima and Oubelaid, Adel},
   journal={Scientific Reports},
