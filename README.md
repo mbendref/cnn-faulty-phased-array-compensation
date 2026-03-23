@@ -305,7 +305,7 @@ This code is provided for academic research purposes. No restrictions apply for 
 ## Contact
 
 For questions or issues, please contact:
-- Bendref Mansour Djassem (corresponding author)
+- Bendref Mansour Djassem ( author)
 - Signals and System Laboratory, University M'Hamed BOUGARA- Boumerdes, Algeria
 
 ## Acknowledgments
