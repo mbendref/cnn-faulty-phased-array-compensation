@@ -186,7 +186,7 @@ def evaluate_compensation(model: keras.Model,
     
     # Compute pattern errors (assuming patterns are in dB scale)
     # Note: In practice, you would need to simulate the recovered patterns
-    # using the predicted phases in CST or with an array factor model
+    # using the predicted phases in CST 
     
     results = {
         'n_samples': n_samples,
